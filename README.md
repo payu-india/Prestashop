@@ -1,2 +1,2 @@
 # Prestashop
-Prestashop details to integrate with PayU.
+Prestashop details to integrate with PayU
